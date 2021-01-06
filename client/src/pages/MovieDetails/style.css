@@ -1,0 +1,43 @@
+
+
+.container{
+    margin: 40px ;
+    justify-content: center;
+  
+}
+
+.left-side {
+    margin-top: 60px;
+}
+
+.right-side {
+    margin-top: 40px;
+    
+}
+
+.rating-card {
+    margin-top: 80px;
+}
+
+.user-card{
+    margin-top: 70px;
+}
+
+.recommend-card {
+margin-top: 70px;
+
+}
+
+.rating-row {
+    padding-bottom: 10px;
+}
+
+.scroll-reviews {
+    height:100px;
+    width: 730px;
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    
+    overflow:scroll;
+}
+
+
